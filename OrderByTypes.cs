@@ -11,6 +11,6 @@ namespace assignment_five
         public const string Name = nameof(Animal.Name);
         public const string Description = nameof(Animal.Description);
         public const string Category = nameof(Animal.Category);
-        public const string Area = nameof(Animal.Area);
+        public const string Size = nameof(Animal.Size);
     }
 }

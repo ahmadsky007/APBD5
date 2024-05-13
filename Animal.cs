@@ -15,5 +15,5 @@ public record Animal
     public string Category { get; set; }
 
     [Required]
-    public string Area { get; set; }
+    public string Size { get; set; }
 }
